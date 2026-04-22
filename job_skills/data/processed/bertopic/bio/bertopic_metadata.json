@@ -1,0 +1,12 @@
+{
+  "mode": "precise",
+  "domain": "bio",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "bertopic_len_text_min": 200,
+  "bertopic_p_rnd_cutoff": 0.5,
+  "bertopic_require_label_weak": false,
+  "n_before_all_filters": 5833,
+  "n_after_len_core_filter": 4168,
+  "n_after_sampling": 2000,
+  "n_topics": 59
+}

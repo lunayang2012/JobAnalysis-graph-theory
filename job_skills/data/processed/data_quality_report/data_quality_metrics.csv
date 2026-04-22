@@ -1,0 +1,9 @@
+Metric,Before,After,Improvement
+Completeness Rate (%),99.76,99.73,-0.03
+Accuracy Rate (%) (Cleaning Precision Proxy),N/A,39.27,N/A
+Cleaning Recall (%) (Optional),N/A,51.60,N/A
+Validity Rate (%),66.43,99.73,33.30
+Uniqueness Rate (%),0.00,100.00,100.00
+Consistency Rate (%),0.00,0.00,0.00
+Timeliness (Parse Rate %),99.35,99.24,-0.11
+Last Update Date,2025-10-03,2025-10-02,N/A

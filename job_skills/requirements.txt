@@ -1,0 +1,15 @@
+pandas>=2.2
+openpyxl>=3.1
+scikit-learn>=1.5
+typer>=0.12
+tqdm>=4.66
+joblib>=1.4
+pydantic>=2.8
+pandera>=0.19
+pyyaml>=6.0
+rich
+
+# optional extensions:
+# polars>=1.8
+# cleanlab>=2.4
+# snorkel>=0.9

@@ -1,0 +1,10 @@
+Metric,Value,Details
+Total Issues Fixed,274,Nulls + Duplicates
+  - Nulls Fixed (title),0,
+  - Nulls Fixed (location),25,
+  - Nulls Fixed (date_posted),249,
+Error Resolution Rate (%),100.00,274 errors identified
+Automation Rate (%),2.64,Requires instrumentation
+Processing Time (seconds),Not Provided,
+Cost per Cleaned Record (USD),Not Provided,
+Recurrence Rate (%),100.00,Requires prior run data
